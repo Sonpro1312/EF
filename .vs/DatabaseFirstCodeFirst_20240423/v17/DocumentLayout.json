@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C20195B-8D01-4D97-8B9D-3BFF7888BFC1}|DatabaseFirst\\DatabaseFirst.csproj|c:\\users\\admin\\downloads\\entity_framework_core-master\\entity_framework_core-master\\databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C20195B-8D01-4D97-8B9D-3BFF7888BFC1}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C20195B-8D01-4D97-8B9D-3BFF7888BFC1}|DatabaseFirst\\DatabaseFirst.csproj|c:\\users\\admin\\downloads\\entity_framework_core-master\\entity_framework_core-master\\databasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C20195B-8D01-4D97-8B9D-3BFF7888BFC1}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C20195B-8D01-4D97-8B9D-3BFF7888BFC1}|DatabaseFirst\\DatabaseFirst.csproj|c:\\users\\admin\\downloads\\entity_framework_core-master\\entity_framework_core-master\\databasefirst\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C20195B-8D01-4D97-8B9D-3BFF7888BFC1}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\DatabaseFirst\\Models\\CompaniesContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DatabaseFirst\\Models\\CompaniesContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\downloads\\entity_framework_core-master\\entity_framework_core-master\\codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\downloads\\entity_framework_core-master\\entity_framework_core-master\\codefirst\\databasecontext\\companiesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\databasecontext\\companiesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\downloads\\entity_framework_core-master\\entity_framework_core-master\\codefirst\\databasecontext\\migrations\\companiesdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\databasecontext\\migrations\\companiesdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\downloads\\entity_framework_core-master\\entity_framework_core-master\\codefirst\\databasecontext\\migrations\\20240423163700_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\databasecontext\\migrations\\20240423163700_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\downloads\\entity_framework_core-master\\entity_framework_core-master\\codefirst\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\downloads\\entity_framework_core-master\\entity_framework_core-master\\codefirst\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\downloads\\entity_framework_core-master\\entity_framework_core-master\\codefirst\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\downloads\\entity_framework_core-master\\entity_framework_core-master\\codefirst\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\downloads\\entity_framework_core-master\\entity_framework_core-master\\codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\downloads\\entity_framework_core-master\\entity_framework_core-master\\codefirst\\database\\migrations\\20240424155027_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\database\\migrations\\20240424155027_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\downloads\\entity_framework_core-master\\entity_framework_core-master\\codefirst\\databasecontext\\migrations\\20240424154840_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CE4C9-DF12-41D3-B681-F7F301E6D7FE}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\databasecontext\\migrations\\20240424154840_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CodeFirst\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAMwBYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:42:51.556Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\DatabaseFirst\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\DatabaseFirst\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "DatabaseFirst\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:00:00.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompaniesContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\DatabaseFirst\\Models\\CompaniesContext.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Models\\CompaniesContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\DatabaseFirst\\Models\\CompaniesContext.cs",
+              "RelativeToolTip": "DatabaseFirst\\Models\\CompaniesContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:17:34.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\DatabaseFirst\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\DatabaseFirst\\Program.cs",
+              "RelativeToolTip": "DatabaseFirst\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:12:28.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\DatabaseFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "DatabaseFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\DatabaseFirst\\appsettings.json",
+              "RelativeToolTip": "DatabaseFirst\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T15:37:30.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240424155027_third.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\Database\\Migrations\\20240424155027_third.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Database\\Migrations\\20240424155027_third.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\Database\\Migrations\\20240424155027_third.cs",
+              "RelativeToolTip": "CodeFirst\\Database\\Migrations\\20240424155027_third.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:50:27.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240424154840_second.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\DatabaseContext\\Migrations\\20240424154840_second.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\DatabaseContext\\Migrations\\20240424154840_second.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\DatabaseContext\\Migrations\\20240424154840_second.cs",
+              "RelativeToolTip": "CodeFirst\\DatabaseContext\\Migrations\\20240424154840_second.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:48:40.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompaniesDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\DatabaseContext\\Migrations\\CompaniesDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\DatabaseContext\\Migrations\\CompaniesDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\DatabaseContext\\Migrations\\CompaniesDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CodeFirst\\DatabaseContext\\Migrations\\CompaniesDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:49:17.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompaniesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\DatabaseContext\\CompaniesDbContext.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\DatabaseContext\\CompaniesDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\DatabaseContext\\CompaniesDbContext.cs",
+              "RelativeToolTip": "CodeFirst\\DatabaseContext\\CompaniesDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:42:24.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\appsettings.json",
+              "RelativeToolTip": "CodeFirst\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T15:35:01.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240423163700_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\DatabaseContext\\Migrations\\20240423163700_Initial.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\DatabaseContext\\Migrations\\20240423163700_Initial.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\DatabaseContext\\Migrations\\20240423163700_Initial.cs",
+              "RelativeToolTip": "CodeFirst\\DatabaseContext\\Migrations\\20240423163700_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:47:02.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\Models\\Company.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:43:57.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\Models\\Employee.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\Employee.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:44:13.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\Models\\Department.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:43:39.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\entity_framework_core-master\\entity_framework_core-master\\CodeFirst\\Program.cs",
+              "RelativeToolTip": "CodeFirst\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:01:34.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
